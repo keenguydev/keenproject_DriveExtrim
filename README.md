@@ -1,4 +1,4 @@
-![DriveExtrim logo](https://deirox.github.io/keenproject_DriveExtrim/images/logo.svg)
+![DriveExtrim logo](https://keenguydev.github.io/keenproject_DriveExtrim/images/logo.svg)
 
 
 # 🚗 Прокат квадроциклов в Москве: Экстримальные катания на природе
@@ -66,7 +66,7 @@
 
 ---
 
-Сайт: [https://deirox.github.io/keenproject_DriveExtrim/](https://deirox.github.io/keenproject_DriveExtrim/)  
+Сайт: [https://keenguydev.github.io/keenproject_DriveExtrim/](https://keenguydev.github.io/keenproject_DriveExtrim/)  
 Теги: квадроциклы, прокат, экстримальные катания, Москва, багги, леса, река, поля, сертификат, звонок  
 
 --- 
